@@ -162,8 +162,8 @@ Full clinic management system covering patients, appointments, and records — r
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ammarkhattab&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=38BDAE&icon_color=38BDAE&count_private=true&include_all_commits=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ammarkhattab&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=38BDAE&langs_count=8"/>
+<img height="170" src="https://github-stats-extended.vercel.app/api?username=ammarkhattab&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=38BDAE&icon_color=38BDAE&count_private=true&include_all_commits=true"/>
+<img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ammarkhattab&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=38BDAE&langs_count=8"/>
 
 <br/><br/>
 
