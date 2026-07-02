@@ -12,6 +12,7 @@
 
 <!-- Badges -->
 <a href="https://www.linkedin.com/in/ammar-tarek-khattab-5a7742267"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:ammarrtarekkhattab@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Cairo-Egypt-black?style=for-the-badge&logo=googlemaps&logoColor=white&color=1f6feb"/>
 <img src="https://komarev.com/ghpvc/?username=ammarkhattab&style=for-the-badge&color=38bdae&label=Profile+Views"/>
 
