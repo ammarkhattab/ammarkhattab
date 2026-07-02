@@ -180,7 +180,7 @@ Full clinic management system covering patients, appointments, and records — r
 <!-- ═══════════════════════ TROPHIES ═══════════════════════ -->
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ammarkhattab&theme=algolia&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" alt="Trophies"/>
+<img src="https://github-profile-trophy.screw-hand.vercel.app/?username=ammarkhattab&theme=algolia&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" alt="Trophies"/>
 
 </div>
 
