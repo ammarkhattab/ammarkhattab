@@ -3,10 +3,19 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Ammar%20Tarek%20Khattab&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Healthcare%20AI%20%E2%80%A2%20Machine%20Learning%20%E2%80%A2%20Biomedical%20Informatics&descSize=16&descAlignY=55" width="100%"/>
 
-<!-- Animated typing intro -->
+<!-- Animated typing intro beside coder illustration -->
+<table align="center">
+<tr>
+<td valign="middle" align="center">
 <a href="https://github.com/ammarkhattab">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=800&color=38BDAE&center=true&vCenter=true&width=600&lines=Building+AI+for+Healthcare+%F0%9F%A9%BA;Vision+Transformers+for+Medical+Imaging;LLM+Fine-tuning+%7C+Explainable+AI;FHIR+%7C+Clinical+Data+%7C+MLOps;Bridging+Medicine+%26+Machine+Learning" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=800&color=38BDAE&center=true&vCenter=true&width=440&lines=Building+AI+for+Healthcare+%F0%9F%A9%BA;Vision+Transformers+for+Medical+Imaging;LLM+Fine-tuning+%7C+Explainable+AI;FHIR+%7C+Clinical+Data+%7C+MLOps;Bridging+Medicine+%26+Machine+Learning" alt="Typing SVG" />
 </a>
+</td>
+<td valign="middle" align="center" width="300">
+<img src="./coder.svg" width="280" alt="Developer coding illustration" />
+</td>
+</tr>
+</table>
 
 <br/>
 
