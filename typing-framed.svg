@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2000 170" width="2000" height="170" fill="none">
+<defs><clipPath id="clip0"><rect x="468" y="0" height="170" width="0">
+<animate attributeName="width" dur="18.00s" repeatCount="indefinite" calcMode="linear" values="0;0;1064;1064;0" keyTimes="0;0;0.12;0.2;1"/>
+</rect></clipPath><clipPath id="clip1"><rect x="259" y="0" height="170" width="0">
+<animate attributeName="width" dur="18.00s" repeatCount="indefinite" calcMode="linear" values="0;0;1482;1482;0" keyTimes="0;0.2;0.32;0.4;1"/>
+</rect></clipPath><clipPath id="clip2"><rect x="392" y="0" height="170" width="0">
+<animate attributeName="width" dur="18.00s" repeatCount="indefinite" calcMode="linear" values="0;0;1216;1216;0" keyTimes="0;0.4;0.52;0.6;1"/>
+</rect></clipPath><clipPath id="clip3"><rect x="468" y="0" height="170" width="0">
+<animate attributeName="width" dur="18.00s" repeatCount="indefinite" calcMode="linear" values="0;0;1064;1064;0" keyTimes="0;0.6;0.72;0.8;1"/>
+</rect></clipPath><clipPath id="clip4"><rect x="316" y="0" height="170" width="0">
+<animate attributeName="width" dur="18.00s" repeatCount="indefinite" calcMode="linear" values="0;0;1368;1368;0" keyTimes="0;0.8;0.92;1;1"/>
+</rect></clipPath></defs>
+<rect x="12" y="12" width="1976" height="146" rx="60" ry="60" fill="none" stroke="#38BDAE" stroke-width="8"/>
+<g opacity="0">
+<animate attributeName="opacity" dur="18.00s" repeatCount="indefinite" values="0;0;1;1;0;0" keyTimes="0;0;0;0.2;0.2;1"/>
+<text x="468" y="106" clip-path="url(#clip0)" textLength="1064" lengthAdjust="spacingAndGlyphs" font-family="'Fira Code','Cascadia Code',ui-monospace,monospace" font-size="58" font-weight="600" fill="#38BDAE" xml:space="preserve">Building AI for Healthcare 🩺</text>
+<rect y="56" width="6" height="58" fill="#38BDAE">
+<animate attributeName="x" dur="18.00s" repeatCount="indefinite" calcMode="linear" values="468;468;1532;1532;468" keyTimes="0;0;0.12;0.2;1"/>
+<animate attributeName="opacity" dur="1s" repeatCount="indefinite" values="1;1;0;0" keyTimes="0;0.5;0.5;1"/>
+</rect>
+</g><g opacity="0">
+<animate attributeName="opacity" dur="18.00s" repeatCount="indefinite" values="0;0;1;1;0;0" keyTimes="0;0.2;0.2;0.4;0.4;1"/>
+<text x="259" y="106" clip-path="url(#clip1)" textLength="1482" lengthAdjust="spacingAndGlyphs" font-family="'Fira Code','Cascadia Code',ui-monospace,monospace" font-size="58" font-weight="600" fill="#38BDAE" xml:space="preserve">Vision Transformers for Medical Imaging</text>
+<rect y="56" width="6" height="58" fill="#38BDAE">
+<animate attributeName="x" dur="18.00s" repeatCount="indefinite" calcMode="linear" values="259;259;1741;1741;259" keyTimes="0;0.2;0.32;0.4;1"/>
+<animate attributeName="opacity" dur="1s" repeatCount="indefinite" values="1;1;0;0" keyTimes="0;0.5;0.5;1"/>
+</rect>
+</g><g opacity="0">
+<animate attributeName="opacity" dur="18.00s" repeatCount="indefinite" values="0;0;1;1;0;0" keyTimes="0;0.4;0.4;0.6;0.6;1"/>
+<text x="392" y="106" clip-path="url(#clip2)" textLength="1216" lengthAdjust="spacingAndGlyphs" font-family="'Fira Code','Cascadia Code',ui-monospace,monospace" font-size="58" font-weight="600" fill="#38BDAE" xml:space="preserve">LLM Fine-tuning | Explainable AI</text>
+<rect y="56" width="6" height="58" fill="#38BDAE">
+<animate attributeName="x" dur="18.00s" repeatCount="indefinite" calcMode="linear" values="392;392;1608;1608;392" keyTimes="0;0.4;0.52;0.6;1"/>
+<animate attributeName="opacity" dur="1s" repeatCount="indefinite" values="1;1;0;0" keyTimes="0;0.5;0.5;1"/>
+</rect>
+</g><g opacity="0">
+<animate attributeName="opacity" dur="18.00s" repeatCount="indefinite" values="0;0;1;1;0;0" keyTimes="0;0.6;0.6;0.8;0.8;1"/>
+<text x="468" y="106" clip-path="url(#clip3)" textLength="1064" lengthAdjust="spacingAndGlyphs" font-family="'Fira Code','Cascadia Code',ui-monospace,monospace" font-size="58" font-weight="600" fill="#38BDAE" xml:space="preserve">FHIR | Clinical Data | MLOps</text>
+<rect y="56" width="6" height="58" fill="#38BDAE">
+<animate attributeName="x" dur="18.00s" repeatCount="indefinite" calcMode="linear" values="468;468;1532;1532;468" keyTimes="0;0.6;0.72;0.8;1"/>
+<animate attributeName="opacity" dur="1s" repeatCount="indefinite" values="1;1;0;0" keyTimes="0;0.5;0.5;1"/>
+</rect>
+</g><g opacity="0">
+<animate attributeName="opacity" dur="18.00s" repeatCount="indefinite" values="0;0;1;1;0;0" keyTimes="0;0.8;0.8;1;1;1"/>
+<text x="316" y="106" clip-path="url(#clip4)" textLength="1368" lengthAdjust="spacingAndGlyphs" font-family="'Fira Code','Cascadia Code',ui-monospace,monospace" font-size="58" font-weight="600" fill="#38BDAE" xml:space="preserve">Bridging Medicine &amp; Machine Learning</text>
+<rect y="56" width="6" height="58" fill="#38BDAE">
+<animate attributeName="x" dur="18.00s" repeatCount="indefinite" calcMode="linear" values="316;316;1684;1684;316" keyTimes="0;0.8;0.92;1;1"/>
+<animate attributeName="opacity" dur="1s" repeatCount="indefinite" values="1;1;0;0" keyTimes="0;0.5;0.5;1"/>
+</rect>
+</g>
+</svg>
