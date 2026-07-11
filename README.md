@@ -2,11 +2,14 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Ammar%20Tarek%20Khattab&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Healthcare%20AI%20%E2%80%A2%20Machine%20Learning%20%E2%80%A2%20Biomedical%20Informatics&descSize=16&descAlignY=55" width="100%"/>
-
-<!-- Coder illustration between headline and contact info -->
-<img src="./coder.svg" width="420" alt="Developer coding illustration" />
-
-<br/>
+<!-- Coder illustration framed, edges aligned with the headline banner -->
+<table width="100%">
+<tr>
+<td align="center">
+<img src="./coder.svg" width="440" alt="Developer coding illustration" />
+</td>
+</tr>
+</table>
 
 <!-- Animated typing intro -->
 <a href="https://github.com/ammarkhattab">
